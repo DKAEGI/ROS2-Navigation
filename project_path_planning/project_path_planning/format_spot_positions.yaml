@@ -1,0 +1,35 @@
+spot_1:
+  ros__parameters:
+    spot_name: "corner1"
+    position:
+      x: 1.0
+      y: 2.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+
+spot_2:
+  ros__parameters:
+    spot_name: "corner2"
+    position:
+      x: 3.0
+      y: 4.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0
+
+spot_3:
+  ros__parameters:
+    spot_name: "pedestrian"
+    position:
+      x: 5.0
+      y: 6.0
+    orientation:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      w: 1.0

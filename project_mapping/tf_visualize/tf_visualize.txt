@@ -1,0 +1,6 @@
+# run the following commands in the shell to visualize the tf_tree with ros2 galactic
+
+sudo apt update
+sudo apt install ros-galactic-tf2-tools -y
+source /opt/ros/galactic/setup.bash
+ros2 run tf2_tools view_frames
